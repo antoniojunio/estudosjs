@@ -1,9 +1,9 @@
-### Estudando JavaScript 🧠
+### Estudando teorias 🧠
 
-Neste repositório deixarei por escrito algumas questões teóricas que são chatas, porém necessárias 🤪
+Neste repositório deixarei por escrito algumas questões teóricas que são chatas, porém necessárias para a evolução profissional 🤪
 
 ### JS 
-- [Estudando JavaScript 🧠](#estudando-javascript-)
+- [Estudando teorias 🧠](#estudando-teorias-)
 - [JS](#js)
   - [<a name="how-js-works"></a> Como funciona o JS](#-como-funciona-o-js)
   - [<a name="what-is-js"></a> O que é o JS](#-o-que-é-o-js)
